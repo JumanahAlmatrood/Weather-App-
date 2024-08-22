@@ -26,7 +26,7 @@
 <ol>
     <li>Clone the repository.</li>
     <li>Get your API key from <a href="https://openweathermap.org/api">OpenWeatherMap</a>.</li>
-    <li>Replace <code>'YOUR_ACTUAL_API_KEY'</code> in the JavaScript file with your API key.</li>
+    <li>Replace <code>'API'</code> in the JavaScript file with your API key.</li>
     <li>Open <code>index.html</code> in your browser to use the app.</li>
 </ol>
 
